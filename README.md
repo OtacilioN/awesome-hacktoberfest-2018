@@ -31,13 +31,24 @@
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
-- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
+- [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
+- [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
+- [HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+- [HacktoberfestPR2020](https://github.com/aryasoni98/HacktoberfestPR2020)
+- [Hasura](https://github.com/hasura/graphql-engine)
+- [HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+- [ImageKit.io SDKs](https://github.com/search?q=org%3Aimagekit-developer+label%3Ahacktoberfest+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
+- [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+- [JavaScript Jokes](https://github.com/mohitrakhade20/javascript-jokes)
+- [JARVIS-on-messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+- [Killed by Google](https://github.com/codyogden/killedbygoogle)
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 - [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 - [Ishaan28malik](https://github.com/Ishaan28malik/Hacktoberfest-2020)
 - [Javascript Mini-Projects](https://github.com/thinkswell/javascript-mini-projects)
 - [Open source drinks](https://github.com/alfg/opendrinks)
+- [Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 - [Predator](https://github.com/Zooz/predator)
 - [Public Ledger Android app](https://github.com/tutushubham/Android-Publicledger)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
@@ -48,6 +59,9 @@
 - [The Code-Bending Dictionary](https://github.com/sylwiavargas/The-Code-Bending-Dictionary)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
+
+
+
 
 ## Repositories Coding for Beginners
 
