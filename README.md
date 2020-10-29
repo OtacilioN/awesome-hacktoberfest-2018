@@ -34,6 +34,7 @@
 - [git-osp-beginners](https://github.com/aditya109/git-osp-for-beginners)
 - [HBD](https://github.com/vinitshahdeo/HBD)
 - [Hack-Day](https://github.com/lugnitdgp/Hack-Day)
+- [Hacktoberfest](https://github.com/arjunadhikary/Hacktoberfest)
 - [Hacktober20-unit-converter](https://github.com/norabalogh/Hacktober20-unit-converter)
 - [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)
 - [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020)
@@ -57,6 +58,7 @@
 - [Awesomo](https://github.com/lk-geimfari/awesomo)
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
+
 
 
 ## Repositories Coding for Beginners
