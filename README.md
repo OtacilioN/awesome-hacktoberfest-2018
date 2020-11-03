@@ -47,7 +47,6 @@
 - [Predator](https://github.com/Zooz/predator)
 - [Public Ledger Android app](https://github.com/tutushubham/Android-Publicledger)
 - [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice)
-- [Python Mini-Project](https://github.com/Python-World/python-mini-projects)
 - [PythonAlgorithms](https://github.com/vJechsmayr/PythonAlgorithms)
 - [remote-jobs](https://github.com/remoteintech/remote-jobs)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
